@@ -1,4 +1,4 @@
-#Faça um programa que peça dois números e imprima a soma.
+#Exercício 3: Faça um programa que peça dois números e imprima a soma.
 
 expressao = input("Digite o cálculo: ")
 
