@@ -1,4 +1,4 @@
-#Faça um programa que peça dois números e imprima a soma.
+#Exercício 4: Faça um programa que peça dois números e imprima a soma.
 
 n1 = input("Digite a primeira nota: ")
 n2 = input("Digite a segunda nota: ")
