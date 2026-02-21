@@ -1,6 +1,7 @@
 #Exercício 5: Faça um programa que converta metros para centímetros.
 
-metros = input("Digite a medida em metros: ")
-centimetros = eval(metros + " * 100", {"__builtins__": None}, {})
+metros = float(input("Digite a medida em metros: "))
 
-print("O valor em centímetros é:", centimetros)
+centimetros = metros * 100
+
+print(f"O valor em centímetros é: {centimetros:g}")
